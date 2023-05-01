@@ -29,5 +29,5 @@ Push the code to your own GitHub/GitLab repo and share the URL with NetSPI team.
 - terraform plan
 - terraform apply -auto-approve
 
-# after the test, no forget to destroy all ressources using this command
+# after the test, dont forget to destroy all ressources using this command
 - terraform destroy -auto-approve
